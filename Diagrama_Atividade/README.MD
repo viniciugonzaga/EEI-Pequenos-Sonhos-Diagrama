@@ -25,6 +25,3 @@ O diagrama segmenta claramente as ações disponíveis:
 ## Junção de Dados
 
 As funcionalidades que requerem acesso à base de dados (como Gerenciar Alunos ou Consultar Informações) convergem no ponto **"Disponibilizar BD"**, indicando que essas ações interagem com a camada de dados do sistema.
-
----
-**Status:** Diagrama de Atividade inicial concluído
