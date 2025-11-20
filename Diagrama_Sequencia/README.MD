@@ -1,4 +1,4 @@
-# ⏳ Fluxos de Interação Detalhados (Diagrama de Sequência)
+# Fluxos de Interação Detalhados (Diagrama de Sequência)
 
 ## Objetivo do Diagrama
 
@@ -11,7 +11,7 @@ O diagrama envolve os seguintes participantes:
 * **Atores:** Usuário (Geral), Responsável, Professor.
 * **Componentes:** Sistema (Controlador principal), BD (Banco de Dados), RD (Geração de Relatórios).
 
-## 🚀 Fluxos Modelados
+## Fluxos Modelados
 
 O diagrama aborda diversas interações chave do sistema:
 
